@@ -176,8 +176,24 @@ Git & GitHub       ████████████░░░░░░  Versi
 
 ## 🐍 Contribution Snake
 
+<h2>🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Asif-Gaad/Asif-Gaad/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Asif-Gaad/Asif-Gaad/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Asif-Gaad/Asif-Gaad/output/github-snake.svg"
+      alt="Asif-Gaad GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
@@ -186,7 +202,7 @@ Git & GitHub       ████████████░░░░░░  Versi
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_Asif-Ali">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -194,7 +210,7 @@ Git & GitHub       ████████████░░░░░░  Versi
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/YOUR_GITHUB_Asif-Gaad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -205,7 +221,10 @@ Git & GitHub       ████████████░░░░░░  Versi
 ## ⚡ GitHub Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Asif-Gaad&show_icons=true&theme=tokyonight"
+    alt="Asif-Gaad GitHub Stats"
+  />
 </p>
 
 ---
