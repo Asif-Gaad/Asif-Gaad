@@ -24,8 +24,14 @@
 
 ### 📊 GitHub Stats
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asif-Gaad&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Gaad&layout=compact&theme=dark)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Gaad&show_icons=true&theme=tokyonight&hide_border=true" alt="Asif's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Gaad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
