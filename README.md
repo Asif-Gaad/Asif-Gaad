@@ -33,7 +33,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [First-Year-Project](https://github.com/Asif-Gaad/Final-Year-Project) | My BE Final Year Project | C++ |
+| [First-Year-Project](https://github.com/Asif-Gaad/Final-Year-Project) | My BE First Year Project | C++ |
 | [cpp-code-](https://github.com/Asif-Gaad/cpp-code-) | C++ Practice Repository | C++ |
 | [Functions](https://github.com/Asif-Gaad/Functions) | Functions in C++ | C++ |
 
